@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WalkApp", "WalkApp\WalkApp.sqlproj", "{CE658ED5-87C5-4908-A693-9B3EC566B431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE658ED5-87C5-4908-A693-9B3EC566B431}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EF5ECE-67C4-49A8-8245-85C257D0C58B}
+	EndGlobalSection
+EndGlobal
